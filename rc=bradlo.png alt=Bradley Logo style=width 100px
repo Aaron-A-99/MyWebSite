@@ -1,0 +1,19 @@
+[1mdiff --git a/intro.html b/intro.html[m
+[1mindex 2db9d9e..363b298 100644[m
+[1m--- a/intro.html[m
+[1m+++ b/intro.html[m
+[36m@@ -6,11 +6,13 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    <img src="bradlo.png" alt="Bradley Logo" style="width: 100px"[m
+[32m+[m[32m    <img src="bradlo.png" alt="Bradley Logo" style="width: 100px">[m
+ [m
+ <h1>Welcome to my website</h1>[m
+     <section>Profile</section>[m
+     <p>Hey I am this...</p>[m
+     <div> I work at <a href="https://bradley.edu" target="_blank">Bradley University </a></div>[m
+[32m+[m[32m    <div>All rights reserved &copy; 2026 Aaron Adams</div>[m
+[32m+[m
+ </body>[m
+ </html>[m
